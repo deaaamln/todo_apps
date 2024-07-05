@@ -1,3 +1,8 @@
+## Tugas tambahan melengkapi Todo Apps
+### Nama    : Dea Meilani 
+### NPM     : 21552011273
+### Kelas   : TIF 221PC 
+
 # Todo List Web Application
 
 ## Deskripsi
@@ -11,10 +16,45 @@ Aplikasi web Todo List ini dirancang untuk membantu pengguna mengelola dan meman
 ## Fitur Unggulan
 - **Dashboard**: Manajemen & monitoring aplikasi todo list yang mudah digunakan.
 - **Intuitif Todo**: Memungkinkan pengguna untuk mencatat pekerjaan dengan lebih mudah dan menyenangkan.
-- **Mostly Category**: Pengguna dapat menambahkan kategori sesuai dengan keperluan mereka.
+- **Category**: Pengguna dapat menambahkan kategori sesuai dengan keperluan mereka.
 - **Todo Schedule**: Jadwalkan tugas agar teratur dan terorganisir dengan baik.
 
 ## Teknologi yang Digunakan
 - PHP Laravel
 - Database: MySQL
-- Bootstrap 
+- Bootstrap
+
+## UI
+### Beranda 
+<div align="center">
+    <img src="images/halaman awal.png">
+</div>
+
+### Halaman Login
+<div align="center">
+    <img src="images/halaman login.png">
+</div>
+
+### Dashboard
+<div align="center">
+    <img src="images/dashboard.png">
+</div>
+
+### Halaman Catatan
+<div align="center">
+    <img src="images/catatan.png">
+</div>
+
+### Halaman Kategori
+<div align="center">
+    <img src="images/halaman kategori.png">
+</div>
+
+### Pengaturan Profile
+<div align="center">
+    <img src="images/pengaturan profile.png">
+</div>
+
+---
+© 2024 Dea Meilani
+
